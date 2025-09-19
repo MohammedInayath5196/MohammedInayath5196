@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sk Inthiyaz</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Inayath</h1>
 <h3 align="center">AI/ML Enthusiast | MERN Stack Dev | Turning Code Into Scalable Impact | BE @ Osmania University</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=sk-inthiyaz&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=MohammedI&color=blue)
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
@@ -19,7 +19,7 @@ I thrive on learning, collaborating, and pushing boundaries. Whether it’s writ
 
 💼 *Check out my work*: [My GitHub Repositories](https://github.com/sk-inthiyaz?tab=repositories)
 
-📫 *Reach me at*: skinthiyaz777@gmail.com
+📫 *Reach me at*: inayath.1923@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 🚀 Aspiring Software Engineer | Passionate Coder | AI/ML & Web Dev Enthusiast
 
-Hi, I’m Sk Inthiyaz, a Bachelor of Engineering student driven by curiosity, creativity, and a strong passion for solving real-world problems through technology. I’m constantly building my skills in Artificial Intelligence, Machine Learning, and Full-Stack Web Development.
+Hi, I’m Mohammed Inayath, a Bachelor of Engineering student driven by curiosity, creativity, and a strong passion for solving real-world problems through technology. I’m constantly building my skills in Artificial Intelligence, Machine Learning, and Full-Stack Web Development.
 
 I thrive on learning, collaborating, and pushing boundaries. Whether it’s writing clean code, building innovative solutions, or connecting with like-minded people, I’m always looking for ways to grow and make an impact.
 
